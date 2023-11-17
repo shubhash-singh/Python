@@ -2,7 +2,7 @@
 
 import re
 
-for i in range(input()):
+for i in range(int(input())):
     a = input()
     try:
         re.compile(a)

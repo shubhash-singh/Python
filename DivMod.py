@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+result = divmod(a, b) # this will return the quotient and remainder as a tuple Ex: (7,6)
+print(result[0])
+print(result[1])
+print(result)

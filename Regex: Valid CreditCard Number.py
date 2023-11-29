@@ -25,3 +25,7 @@ for i in range(int(input())):
         print("Valid")
     else:
         print('Invalid')
+        
+# some time this will give valid for number like
+# 6865---------------3965---------------1564-------------2918
+# this can return valid as well need to solve this one later
